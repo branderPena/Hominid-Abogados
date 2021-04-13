@@ -1,0 +1,27 @@
+body{
+    background-color: #645E5C;
+}
+header{
+    background-color: #211915;
+}
+footer{
+    background-color: #211915;
+}
+td, tr{
+    color: #000000;
+}
+h3{
+    background-color: white;
+    text-align: center;
+}
+table {
+    width: 100%;
+    border: 1px solid #000;
+    background-color: white;
+ }
+td, tr, th{
+    width: 3%;
+    height: 3%;
+    border: 1px solid #000;
+    text-align: center;
+}
